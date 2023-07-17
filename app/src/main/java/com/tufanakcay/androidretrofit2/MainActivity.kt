@@ -73,5 +73,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this@MainActivity, "Internet or Server Fail", Toast.LENGTH_LONG).show()
             }
         })
+		
     }
+	
 }
